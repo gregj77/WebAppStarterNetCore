@@ -1,0 +1,674 @@
+2019-03-02 22:12:25.7833 Info Message Template Auto Format enabled
+2019-03-02 22:12:25.7958 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:12:25.8547 Info Adding target File Target[allfile]
+2019-03-02 22:12:25.8578 Info Adding target File Target[ownFile-web]
+2019-03-02 22:12:25.8578 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:12:25.9028 Info Found 45 configuration items
+2019-03-02 22:12:25.9205 Info Configuration initialized.
+2019-03-02 22:12:25.9205 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 22:16:09.1565 Info Message Template Auto Format enabled
+2019-03-02 22:16:09.1565 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:16:09.2207 Info Adding target File Target[allfile]
+2019-03-02 22:16:09.2207 Info Adding target File Target[ownFile-web]
+2019-03-02 22:16:09.2207 Info Adding target Debugger Target[dbg]
+2019-03-02 22:16:09.2354 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:16:09.2507 Info Found 58 configuration items
+2019-03-02 22:16:09.2770 Info Configuration initialized.
+2019-03-02 22:16:09.2888 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 22:18:07.0508 Info Message Template Auto Format enabled
+2019-03-02 22:18:07.0645 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:18:07.1188 Info Adding target File Target[allfile]
+2019-03-02 22:18:07.1219 Info Adding target File Target[ownFile-web]
+2019-03-02 22:18:07.1219 Info Adding target Debugger Target[dbg]
+2019-03-02 22:18:07.1219 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:18:07.1448 Info Found 58 configuration items
+2019-03-02 22:18:07.1697 Info Configuration initialized.
+2019-03-02 22:18:07.1697 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 22:33:27.6747 Info Message Template Auto Format enabled
+2019-03-02 22:33:27.6747 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:33:27.7398 Info Adding target File Target[allfile]
+2019-03-02 22:33:27.7398 Info Adding target File Target[ownFile-web]
+2019-03-02 22:33:27.7398 Info Adding target Debugger Target[dbg]
+2019-03-02 22:33:27.7513 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:33:27.7667 Info Found 58 configuration items
+2019-03-02 22:33:27.7894 Info Configuration initialized.
+2019-03-02 22:33:27.7991 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 22:44:22.5572 Info Message Template Auto Format enabled
+2019-03-02 22:44:22.5717 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:44:22.6288 Info Adding target File Target[allfile]
+2019-03-02 22:44:22.6288 Info Adding target File Target[ownFile-web]
+2019-03-02 22:44:22.6288 Info Adding target Debugger Target[dbg]
+2019-03-02 22:44:22.6404 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:44:22.6536 Info Found 58 configuration items
+2019-03-02 22:44:22.6833 Info Configuration initialized.
+2019-03-02 22:44:22.6937 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 22:57:10.0801 Info Message Template Auto Format enabled
+2019-03-02 22:57:10.0935 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:57:10.1525 Info Adding target File Target[allfile]
+2019-03-02 22:57:10.1552 Info Adding target File Target[ownFile-web]
+2019-03-02 22:57:10.1552 Info Adding target Debugger Target[dbg]
+2019-03-02 22:57:10.1552 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:57:10.1806 Info Found 58 configuration items
+2019-03-02 22:57:10.2084 Info Configuration initialized.
+2019-03-02 22:57:10.2193 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 22:57:55.6150 Info Message Template Auto Format enabled
+2019-03-02 22:57:55.6253 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:57:55.6860 Info Adding target File Target[allfile]
+2019-03-02 22:57:55.6860 Info Adding target File Target[ownFile-web]
+2019-03-02 22:57:55.6860 Info Adding target Debugger Target[dbg]
+2019-03-02 22:57:55.6860 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:57:55.7119 Info Found 58 configuration items
+2019-03-02 22:57:55.7301 Info Configuration initialized.
+2019-03-02 22:57:55.7394 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 22:58:26.3342 Info Message Template Auto Format enabled
+2019-03-02 22:58:26.3460 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:58:26.4026 Info Adding target File Target[allfile]
+2019-03-02 22:58:26.4026 Info Adding target File Target[ownFile-web]
+2019-03-02 22:58:26.4026 Info Adding target Debugger Target[dbg]
+2019-03-02 22:58:26.4026 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:58:26.4295 Info Found 58 configuration items
+2019-03-02 22:58:26.4452 Info Configuration initialized.
+2019-03-02 22:58:26.4559 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 22:59:48.9444 Info Message Template Auto Format enabled
+2019-03-02 22:59:48.9578 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 22:59:49.0104 Info Adding target File Target[allfile]
+2019-03-02 22:59:49.0137 Info Adding target File Target[ownFile-web]
+2019-03-02 22:59:49.0137 Info Adding target Debugger Target[dbg]
+2019-03-02 22:59:49.0137 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 22:59:49.0380 Info Found 58 configuration items
+2019-03-02 22:59:49.0551 Info Configuration initialized.
+2019-03-02 22:59:49.0649 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 23:00:44.2134 Info Message Template Auto Format enabled
+2019-03-02 23:00:44.2221 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 23:00:44.2785 Info Adding target File Target[allfile]
+2019-03-02 23:00:44.2785 Info Adding target File Target[ownFile-web]
+2019-03-02 23:00:44.2785 Info Adding target Debugger Target[dbg]
+2019-03-02 23:00:44.2785 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 23:00:44.3041 Info Found 58 configuration items
+2019-03-02 23:00:44.3201 Info Configuration initialized.
+2019-03-02 23:00:44.3306 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 23:04:01.6325 Info Message Template Auto Format enabled
+2019-03-02 23:04:01.6474 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 23:04:01.7012 Info Adding target File Target[allfile]
+2019-03-02 23:04:01.7012 Info Adding target File Target[ownFile-web]
+2019-03-02 23:04:01.7012 Info Adding target Debugger Target[dbg]
+2019-03-02 23:04:01.7012 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 23:04:01.7265 Info Found 58 configuration items
+2019-03-02 23:04:01.7432 Info Configuration initialized.
+2019-03-02 23:04:01.7524 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 23:07:50.9833 Info Message Template Auto Format enabled
+2019-03-02 23:07:50.9833 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 23:07:51.0461 Info Adding target File Target[allfile]
+2019-03-02 23:07:51.0461 Info Adding target File Target[ownFile-web]
+2019-03-02 23:07:51.0461 Info Adding target Debugger Target[dbg]
+2019-03-02 23:07:51.0461 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 23:07:51.0715 Info Found 58 configuration items
+2019-03-02 23:07:51.0887 Info Configuration initialized.
+2019-03-02 23:07:51.0978 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-02 23:11:45.5606 Info Message Template Auto Format enabled
+2019-03-02 23:11:45.5606 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-02 23:11:45.6224 Info Adding target File Target[allfile]
+2019-03-02 23:11:45.6224 Info Adding target File Target[ownFile-web]
+2019-03-02 23:11:45.6224 Info Adding target Debugger Target[dbg]
+2019-03-02 23:11:45.6224 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-02 23:11:45.6481 Info Found 58 configuration items
+2019-03-02 23:11:45.6648 Info Configuration initialized.
+2019-03-02 23:11:45.6736 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 11:09:15.4249 Info Message Template Auto Format enabled
+2019-03-03 11:09:15.4719 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 11:09:15.5383 Info Adding target File Target[allfile]
+2019-03-03 11:09:15.5454 Info Adding target File Target[ownFile-web]
+2019-03-03 11:09:15.5454 Info Adding target Debugger Target[dbg]
+2019-03-03 11:09:15.5454 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 11:09:15.5675 Info Found 58 configuration items
+2019-03-03 11:09:15.5854 Info Configuration initialized.
+2019-03-03 11:09:15.5953 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 11:17:51.8196 Info Message Template Auto Format enabled
+2019-03-03 11:17:51.8321 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 11:17:51.8878 Info Adding target File Target[allfile]
+2019-03-03 11:17:51.8878 Info Adding target File Target[ownFile-web]
+2019-03-03 11:17:51.8878 Info Adding target Debugger Target[dbg]
+2019-03-03 11:17:51.8878 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 11:17:51.9131 Info Found 58 configuration items
+2019-03-03 11:17:51.9282 Info Configuration initialized.
+2019-03-03 11:17:51.9392 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 11:30:29.3153 Info Message Template Auto Format enabled
+2019-03-03 11:30:29.3258 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 11:30:29.3787 Info Adding target File Target[allfile]
+2019-03-03 11:30:29.3787 Info Adding target File Target[ownFile-web]
+2019-03-03 11:30:29.3787 Info Adding target Debugger Target[dbg]
+2019-03-03 11:30:29.3905 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 11:30:29.4045 Info Found 58 configuration items
+2019-03-03 11:30:29.4229 Info Configuration initialized.
+2019-03-03 11:30:29.4229 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 11:39:05.7150 Info Message Template Auto Format enabled
+2019-03-03 11:39:05.7235 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 11:39:05.7797 Info Adding target File Target[allfile]
+2019-03-03 11:39:05.7797 Info Adding target File Target[ownFile-web]
+2019-03-03 11:39:05.7797 Info Adding target Debugger Target[dbg]
+2019-03-03 11:39:05.7797 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 11:39:05.8049 Info Found 58 configuration items
+2019-03-03 11:39:05.8203 Info Configuration initialized.
+2019-03-03 11:39:05.8315 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 12:00:24.4707 Info Message Template Auto Format enabled
+2019-03-03 12:00:24.4839 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 12:00:24.5494 Info Adding target File Target[allfile]
+2019-03-03 12:00:24.5494 Info Adding target File Target[ownFile-web]
+2019-03-03 12:00:24.5494 Info Adding target Debugger Target[dbg]
+2019-03-03 12:00:24.5614 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 12:00:24.5746 Info Found 58 configuration items
+2019-03-03 12:00:24.5914 Info Configuration initialized.
+2019-03-03 12:00:24.5914 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 12:03:24.9855 Info Message Template Auto Format enabled
+2019-03-03 12:03:24.9855 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 12:03:25.0496 Info Adding target File Target[allfile]
+2019-03-03 12:03:25.0496 Info Adding target File Target[ownFile-web]
+2019-03-03 12:03:25.0496 Info Adding target Debugger Target[dbg]
+2019-03-03 12:03:25.0629 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 12:03:25.0787 Info Found 58 configuration items
+2019-03-03 12:03:25.0944 Info Configuration initialized.
+2019-03-03 12:03:25.1057 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 13:05:32.1501 Info Message Template Auto Format enabled
+2019-03-03 13:05:32.1625 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 13:05:32.2205 Info Adding target File Target[allfile]
+2019-03-03 13:05:32.2205 Info Adding target File Target[ownFile-web]
+2019-03-03 13:05:32.2205 Info Adding target Debugger Target[dbg]
+2019-03-03 13:05:32.2363 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 13:05:32.2504 Info Found 58 configuration items
+2019-03-03 13:05:32.2709 Info Configuration initialized.
+2019-03-03 13:05:32.2803 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 13:08:05.0529 Info Message Template Auto Format enabled
+2019-03-03 13:08:05.0642 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 13:08:05.1250 Info Adding target File Target[allfile]
+2019-03-03 13:08:05.1250 Info Adding target File Target[ownFile-web]
+2019-03-03 13:08:05.1250 Info Adding target Debugger Target[dbg]
+2019-03-03 13:08:05.1400 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 13:08:05.1540 Info Found 58 configuration items
+2019-03-03 13:08:05.1741 Info Configuration initialized.
+2019-03-03 13:08:05.1741 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 13:50:09.0250 Info Message Template Auto Format enabled
+2019-03-03 13:50:09.0369 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 13:50:09.0933 Info Adding target File Target[allfile]
+2019-03-03 13:50:09.0933 Info Adding target File Target[ownFile-web]
+2019-03-03 13:50:09.0933 Info Adding target Debugger Target[dbg]
+2019-03-03 13:50:09.0933 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 13:50:09.1222 Info Found 58 configuration items
+2019-03-03 13:50:09.1387 Info Configuration initialized.
+2019-03-03 13:50:09.1387 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 13:50:43.2002 Info Message Template Auto Format enabled
+2019-03-03 13:50:43.2002 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 13:50:43.2645 Info Adding target File Target[allfile]
+2019-03-03 13:50:43.2645 Info Adding target File Target[ownFile-web]
+2019-03-03 13:50:43.2645 Info Adding target Debugger Target[dbg]
+2019-03-03 13:50:43.2798 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 13:50:43.2932 Info Found 58 configuration items
+2019-03-03 13:50:43.3110 Info Configuration initialized.
+2019-03-03 13:50:43.3110 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 13:51:20.7940 Info Message Template Auto Format enabled
+2019-03-03 13:51:20.7940 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 13:51:20.8633 Info Adding target File Target[allfile]
+2019-03-03 13:51:20.8633 Info Adding target File Target[ownFile-web]
+2019-03-03 13:51:20.8633 Info Adding target Debugger Target[dbg]
+2019-03-03 13:51:20.8746 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 13:51:20.8956 Info Found 58 configuration items
+2019-03-03 13:51:20.9112 Info Configuration initialized.
+2019-03-03 13:51:20.9219 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 13:58:46.5955 Info Message Template Auto Format enabled
+2019-03-03 13:58:46.6075 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 13:58:46.6896 Info Adding target File Target[allfile]
+2019-03-03 13:58:46.6896 Info Adding target File Target[ownFile-web]
+2019-03-03 13:58:46.6896 Info Adding target Debugger Target[dbg]
+2019-03-03 13:58:46.7070 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 13:58:46.7237 Info Found 58 configuration items
+2019-03-03 13:58:46.7500 Info Configuration initialized.
+2019-03-03 13:58:46.7500 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:02:19.0027 Info Message Template Auto Format enabled
+2019-03-03 14:02:19.0120 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:02:19.0693 Info Adding target File Target[allfile]
+2019-03-03 14:02:19.0764 Info Adding target File Target[ownFile-web]
+2019-03-03 14:02:19.0764 Info Adding target Debugger Target[dbg]
+2019-03-03 14:02:19.0764 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:02:19.1012 Info Found 58 configuration items
+2019-03-03 14:02:19.1175 Info Configuration initialized.
+2019-03-03 14:02:19.1340 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:09:22.5061 Info Message Template Auto Format enabled
+2019-03-03 14:09:22.5205 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:09:22.5739 Info Adding target File Target[allfile]
+2019-03-03 14:09:22.5777 Info Adding target File Target[ownFile-web]
+2019-03-03 14:09:22.5777 Info Adding target Debugger Target[dbg]
+2019-03-03 14:09:22.5777 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:09:22.6030 Info Found 58 configuration items
+2019-03-03 14:09:22.6223 Info Configuration initialized.
+2019-03-03 14:09:22.6223 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:13:10.3797 Info Message Template Auto Format enabled
+2019-03-03 14:13:10.3884 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:13:10.4489 Info Adding target File Target[allfile]
+2019-03-03 14:13:10.4536 Info Adding target File Target[ownFile-web]
+2019-03-03 14:13:10.4536 Info Adding target Debugger Target[dbg]
+2019-03-03 14:13:10.4536 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:13:10.4806 Info Found 58 configuration items
+2019-03-03 14:13:10.4975 Info Configuration initialized.
+2019-03-03 14:13:10.4975 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:14:02.7050 Info Message Template Auto Format enabled
+2019-03-03 14:14:02.7167 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:14:02.7755 Info Adding target File Target[allfile]
+2019-03-03 14:14:02.7793 Info Adding target File Target[ownFile-web]
+2019-03-03 14:14:02.7793 Info Adding target Debugger Target[dbg]
+2019-03-03 14:14:02.7793 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:14:02.8049 Info Found 58 configuration items
+2019-03-03 14:14:02.8243 Info Configuration initialized.
+2019-03-03 14:14:02.8243 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:14:32.6871 Info Message Template Auto Format enabled
+2019-03-03 14:14:32.6871 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:14:32.7524 Info Adding target File Target[allfile]
+2019-03-03 14:14:32.7524 Info Adding target File Target[ownFile-web]
+2019-03-03 14:14:32.7524 Info Adding target Debugger Target[dbg]
+2019-03-03 14:14:32.7676 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:14:32.7813 Info Found 58 configuration items
+2019-03-03 14:14:32.7998 Info Configuration initialized.
+2019-03-03 14:14:32.8106 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:15:58.3368 Info Message Template Auto Format enabled
+2019-03-03 14:15:58.3461 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:15:58.4082 Info Adding target File Target[allfile]
+2019-03-03 14:15:58.4082 Info Adding target File Target[ownFile-web]
+2019-03-03 14:15:58.4082 Info Adding target Debugger Target[dbg]
+2019-03-03 14:15:58.4200 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:15:58.4366 Info Found 58 configuration items
+2019-03-03 14:15:58.4523 Info Configuration initialized.
+2019-03-03 14:15:58.4523 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:16:40.6947 Info Message Template Auto Format enabled
+2019-03-03 14:16:40.7076 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:16:40.7629 Info Adding target File Target[allfile]
+2019-03-03 14:16:40.7629 Info Adding target File Target[ownFile-web]
+2019-03-03 14:16:40.7629 Info Adding target Debugger Target[dbg]
+2019-03-03 14:16:40.7629 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:16:40.7912 Info Found 58 configuration items
+2019-03-03 14:16:40.8081 Info Configuration initialized.
+2019-03-03 14:16:40.8172 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:17:10.6163 Info Message Template Auto Format enabled
+2019-03-03 14:17:10.6268 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:17:10.6837 Info Adding target File Target[allfile]
+2019-03-03 14:17:10.6856 Info Adding target File Target[ownFile-web]
+2019-03-03 14:17:10.6856 Info Adding target Debugger Target[dbg]
+2019-03-03 14:17:10.6856 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:17:10.7096 Info Found 58 configuration items
+2019-03-03 14:17:10.7272 Info Configuration initialized.
+2019-03-03 14:17:10.7381 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:17:53.6891 Info Message Template Auto Format enabled
+2019-03-03 14:17:53.6997 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:17:53.7570 Info Adding target File Target[allfile]
+2019-03-03 14:17:53.7570 Info Adding target File Target[ownFile-web]
+2019-03-03 14:17:53.7617 Info Adding target Debugger Target[dbg]
+2019-03-03 14:17:53.7617 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:17:53.7852 Info Found 58 configuration items
+2019-03-03 14:17:53.8037 Info Configuration initialized.
+2019-03-03 14:17:53.8132 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:20:00.0548 Info Message Template Auto Format enabled
+2019-03-03 14:20:00.0636 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:20:00.1366 Info Adding target File Target[allfile]
+2019-03-03 14:20:00.1402 Info Adding target File Target[ownFile-web]
+2019-03-03 14:20:00.1402 Info Adding target Debugger Target[dbg]
+2019-03-03 14:20:00.1402 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:20:00.1649 Info Found 58 configuration items
+2019-03-03 14:20:00.1824 Info Configuration initialized.
+2019-03-03 14:20:00.1952 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:20:19.9427 Info Message Template Auto Format enabled
+2019-03-03 14:20:19.9568 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:20:20.0134 Info Adding target File Target[allfile]
+2019-03-03 14:20:20.0134 Info Adding target File Target[ownFile-web]
+2019-03-03 14:20:20.0134 Info Adding target Debugger Target[dbg]
+2019-03-03 14:20:20.0134 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:20:20.0427 Info Found 58 configuration items
+2019-03-03 14:20:20.0581 Info Configuration initialized.
+2019-03-03 14:20:20.0687 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:21:02.5487 Info Message Template Auto Format enabled
+2019-03-03 14:21:02.5616 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:21:02.6191 Info Adding target File Target[allfile]
+2019-03-03 14:21:02.6235 Info Adding target File Target[ownFile-web]
+2019-03-03 14:21:02.6235 Info Adding target Debugger Target[dbg]
+2019-03-03 14:21:02.6235 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:21:02.6498 Info Found 58 configuration items
+2019-03-03 14:21:02.6678 Info Configuration initialized.
+2019-03-03 14:21:02.6773 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:21:40.9083 Info Message Template Auto Format enabled
+2019-03-03 14:21:40.9208 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:21:40.9778 Info Adding target File Target[allfile]
+2019-03-03 14:21:40.9778 Info Adding target File Target[ownFile-web]
+2019-03-03 14:21:40.9833 Info Adding target Debugger Target[dbg]
+2019-03-03 14:21:40.9833 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:21:41.0077 Info Found 58 configuration items
+2019-03-03 14:21:41.0255 Info Configuration initialized.
+2019-03-03 14:21:41.0376 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:22:22.3362 Info Message Template Auto Format enabled
+2019-03-03 14:22:22.3500 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:22:22.4041 Info Adding target File Target[allfile]
+2019-03-03 14:22:22.4041 Info Adding target File Target[ownFile-web]
+2019-03-03 14:22:22.4041 Info Adding target Debugger Target[dbg]
+2019-03-03 14:22:22.4041 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:22:22.4340 Info Found 58 configuration items
+2019-03-03 14:22:22.4534 Info Configuration initialized.
+2019-03-03 14:22:22.4534 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:23:16.7891 Info Message Template Auto Format enabled
+2019-03-03 14:23:16.7995 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:23:16.8567 Info Adding target File Target[allfile]
+2019-03-03 14:23:16.8567 Info Adding target File Target[ownFile-web]
+2019-03-03 14:23:16.8567 Info Adding target Debugger Target[dbg]
+2019-03-03 14:23:16.8567 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:23:16.8845 Info Found 58 configuration items
+2019-03-03 14:23:16.9002 Info Configuration initialized.
+2019-03-03 14:23:16.9114 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:24:21.7083 Info Message Template Auto Format enabled
+2019-03-03 14:24:21.7191 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:24:21.7733 Info Adding target File Target[allfile]
+2019-03-03 14:24:21.7733 Info Adding target File Target[ownFile-web]
+2019-03-03 14:24:21.7780 Info Adding target Debugger Target[dbg]
+2019-03-03 14:24:21.7780 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:24:21.7991 Info Found 58 configuration items
+2019-03-03 14:24:21.8177 Info Configuration initialized.
+2019-03-03 14:24:21.8275 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:25:51.8070 Info Message Template Auto Format enabled
+2019-03-03 14:25:51.8159 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:25:51.8709 Info Adding target File Target[allfile]
+2019-03-03 14:25:51.8709 Info Adding target File Target[ownFile-web]
+2019-03-03 14:25:51.8709 Info Adding target Debugger Target[dbg]
+2019-03-03 14:25:51.8709 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:25:51.8984 Info Found 58 configuration items
+2019-03-03 14:25:51.9153 Info Configuration initialized.
+2019-03-03 14:25:51.9281 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:27:01.0990 Info Message Template Auto Format enabled
+2019-03-03 14:27:01.1100 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:27:01.1684 Info Adding target File Target[allfile]
+2019-03-03 14:27:01.1684 Info Adding target File Target[ownFile-web]
+2019-03-03 14:27:01.1684 Info Adding target Debugger Target[dbg]
+2019-03-03 14:27:01.1867 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:27:01.2008 Info Found 58 configuration items
+2019-03-03 14:27:01.2201 Info Configuration initialized.
+2019-03-03 14:27:01.2201 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:27:42.3024 Info Message Template Auto Format enabled
+2019-03-03 14:27:42.3132 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:27:42.3871 Info Adding target File Target[allfile]
+2019-03-03 14:27:42.3871 Info Adding target File Target[ownFile-web]
+2019-03-03 14:27:42.3871 Info Adding target Debugger Target[dbg]
+2019-03-03 14:27:42.4037 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:27:42.4216 Info Found 58 configuration items
+2019-03-03 14:27:42.4398 Info Configuration initialized.
+2019-03-03 14:27:42.4524 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:29:04.6273 Info Message Template Auto Format enabled
+2019-03-03 14:29:04.6377 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:29:04.6920 Info Adding target File Target[allfile]
+2019-03-03 14:29:04.6920 Info Adding target File Target[ownFile-web]
+2019-03-03 14:29:04.6920 Info Adding target Debugger Target[dbg]
+2019-03-03 14:29:04.7042 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:29:04.7179 Info Found 58 configuration items
+2019-03-03 14:29:04.7358 Info Configuration initialized.
+2019-03-03 14:29:04.7358 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 14:29:53.9337 Info Message Template Auto Format enabled
+2019-03-03 14:29:53.9337 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 14:29:54.0023 Info Adding target File Target[allfile]
+2019-03-03 14:29:54.0023 Info Adding target File Target[ownFile-web]
+2019-03-03 14:29:54.0023 Info Adding target Debugger Target[dbg]
+2019-03-03 14:29:54.0176 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 14:29:54.0364 Info Found 58 configuration items
+2019-03-03 14:29:54.0538 Info Configuration initialized.
+2019-03-03 14:29:54.0650 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 15:58:50.3158 Info Message Template Auto Format enabled
+2019-03-03 15:58:50.3263 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 15:58:50.3825 Info Adding target File Target[allfile]
+2019-03-03 15:58:50.3825 Info Adding target File Target[ownFile-web]
+2019-03-03 15:58:50.3872 Info Adding target Debugger Target[dbg]
+2019-03-03 15:58:50.3872 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 15:58:50.4130 Info Found 58 configuration items
+2019-03-03 15:58:50.4308 Info Configuration initialized.
+2019-03-03 15:58:50.4438 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 15:59:53.5893 Info Message Template Auto Format enabled
+2019-03-03 15:59:53.5995 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 15:59:53.6642 Info Adding target File Target[allfile]
+2019-03-03 15:59:53.6701 Info Adding target File Target[ownFile-web]
+2019-03-03 15:59:53.6701 Info Adding target Debugger Target[dbg]
+2019-03-03 15:59:53.6701 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 15:59:53.6929 Info Found 58 configuration items
+2019-03-03 15:59:53.7104 Info Configuration initialized.
+2019-03-03 15:59:53.7211 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:00:29.5864 Info Message Template Auto Format enabled
+2019-03-03 16:00:29.5974 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:00:29.6564 Info Adding target File Target[allfile]
+2019-03-03 16:00:29.6564 Info Adding target File Target[ownFile-web]
+2019-03-03 16:00:29.6564 Info Adding target Debugger Target[dbg]
+2019-03-03 16:00:29.6714 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:00:29.6859 Info Found 58 configuration items
+2019-03-03 16:00:29.7068 Info Configuration initialized.
+2019-03-03 16:00:29.7167 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:09:45.4905 Info Message Template Auto Format enabled
+2019-03-03 16:09:45.4997 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:09:45.5594 Info Adding target File Target[allfile]
+2019-03-03 16:09:45.5594 Info Adding target File Target[ownFile-web]
+2019-03-03 16:09:45.5594 Info Adding target Debugger Target[dbg]
+2019-03-03 16:09:45.5594 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:09:45.5853 Info Found 58 configuration items
+2019-03-03 16:09:45.6033 Info Configuration initialized.
+2019-03-03 16:09:45.6184 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:15:01.4349 Info Message Template Auto Format enabled
+2019-03-03 16:15:01.4349 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:15:01.5030 Info Adding target File Target[allfile]
+2019-03-03 16:15:01.5030 Info Adding target File Target[ownFile-web]
+2019-03-03 16:15:01.5030 Info Adding target Debugger Target[dbg]
+2019-03-03 16:15:01.5152 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:15:01.5282 Info Found 58 configuration items
+2019-03-03 16:15:01.5452 Info Configuration initialized.
+2019-03-03 16:15:01.5452 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:16:51.5199 Info Message Template Auto Format enabled
+2019-03-03 16:16:51.5322 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:16:51.5889 Info Adding target File Target[allfile]
+2019-03-03 16:16:51.5910 Info Adding target File Target[ownFile-web]
+2019-03-03 16:16:51.5910 Info Adding target Debugger Target[dbg]
+2019-03-03 16:16:51.5910 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:16:51.6145 Info Found 58 configuration items
+2019-03-03 16:16:51.6296 Info Configuration initialized.
+2019-03-03 16:16:51.6411 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:17:55.4995 Info Message Template Auto Format enabled
+2019-03-03 16:17:55.4995 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:17:55.5648 Info Adding target File Target[allfile]
+2019-03-03 16:17:55.5648 Info Adding target File Target[ownFile-web]
+2019-03-03 16:17:55.5648 Info Adding target Debugger Target[dbg]
+2019-03-03 16:17:55.5770 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:17:55.5917 Info Found 58 configuration items
+2019-03-03 16:17:55.6086 Info Configuration initialized.
+2019-03-03 16:17:55.6086 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:19:58.5673 Info Message Template Auto Format enabled
+2019-03-03 16:19:58.5776 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:19:58.6347 Info Adding target File Target[allfile]
+2019-03-03 16:19:58.6412 Info Adding target File Target[ownFile-web]
+2019-03-03 16:19:58.6412 Info Adding target Debugger Target[dbg]
+2019-03-03 16:19:58.6412 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:19:58.6644 Info Found 58 configuration items
+2019-03-03 16:19:58.6820 Info Configuration initialized.
+2019-03-03 16:19:58.6917 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:21:53.7102 Info Message Template Auto Format enabled
+2019-03-03 16:21:53.7208 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:21:53.7743 Info Adding target File Target[allfile]
+2019-03-03 16:21:53.7778 Info Adding target File Target[ownFile-web]
+2019-03-03 16:21:53.7778 Info Adding target Debugger Target[dbg]
+2019-03-03 16:21:53.7778 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:21:53.7998 Info Found 58 configuration items
+2019-03-03 16:21:53.8167 Info Configuration initialized.
+2019-03-03 16:21:53.8260 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:22:27.8267 Info Message Template Auto Format enabled
+2019-03-03 16:22:27.8267 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:22:27.8920 Info Adding target File Target[allfile]
+2019-03-03 16:22:27.8920 Info Adding target File Target[ownFile-web]
+2019-03-03 16:22:27.8920 Info Adding target Debugger Target[dbg]
+2019-03-03 16:22:27.9039 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:22:27.9039 Info Found 58 configuration items
+2019-03-03 16:22:27.9345 Info Configuration initialized.
+2019-03-03 16:22:27.9345 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:26:48.4245 Info Message Template Auto Format enabled
+2019-03-03 16:26:48.4245 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:26:48.4882 Info Adding target File Target[allfile]
+2019-03-03 16:26:48.4882 Info Adding target File Target[ownFile-web]
+2019-03-03 16:26:48.4882 Info Adding target Debugger Target[dbg]
+2019-03-03 16:26:48.5020 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:26:48.5177 Info Found 58 configuration items
+2019-03-03 16:26:48.5350 Info Configuration initialized.
+2019-03-03 16:26:48.5471 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:27:47.8826 Info Message Template Auto Format enabled
+2019-03-03 16:27:47.8940 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:27:47.9476 Info Adding target File Target[allfile]
+2019-03-03 16:27:47.9552 Info Adding target File Target[ownFile-web]
+2019-03-03 16:27:47.9552 Info Adding target Debugger Target[dbg]
+2019-03-03 16:27:47.9552 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:27:47.9781 Info Found 58 configuration items
+2019-03-03 16:27:47.9953 Info Configuration initialized.
+2019-03-03 16:27:48.0049 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:28:40.5269 Info Message Template Auto Format enabled
+2019-03-03 16:28:40.5375 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:28:40.5932 Info Adding target File Target[allfile]
+2019-03-03 16:28:40.5932 Info Adding target File Target[ownFile-web]
+2019-03-03 16:28:40.5932 Info Adding target Debugger Target[dbg]
+2019-03-03 16:28:40.5932 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:28:40.6192 Info Found 58 configuration items
+2019-03-03 16:28:40.6358 Info Configuration initialized.
+2019-03-03 16:28:40.6447 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:29:27.7440 Info Message Template Auto Format enabled
+2019-03-03 16:29:27.7545 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:29:27.8110 Info Adding target File Target[allfile]
+2019-03-03 16:29:27.8110 Info Adding target File Target[ownFile-web]
+2019-03-03 16:29:27.8110 Info Adding target Debugger Target[dbg]
+2019-03-03 16:29:27.8110 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:29:27.8359 Info Found 58 configuration items
+2019-03-03 16:29:27.8529 Info Configuration initialized.
+2019-03-03 16:29:27.8626 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:31:20.3483 Info Message Template Auto Format enabled
+2019-03-03 16:31:20.3582 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:31:20.4152 Info Adding target File Target[allfile]
+2019-03-03 16:31:20.4152 Info Adding target File Target[ownFile-web]
+2019-03-03 16:31:20.4199 Info Adding target Debugger Target[dbg]
+2019-03-03 16:31:20.4199 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:31:20.4416 Info Found 58 configuration items
+2019-03-03 16:31:20.4575 Info Configuration initialized.
+2019-03-03 16:31:20.4685 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:32:59.7972 Info Message Template Auto Format enabled
+2019-03-03 16:32:59.7972 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:32:59.8611 Info Adding target File Target[allfile]
+2019-03-03 16:32:59.8611 Info Adding target File Target[ownFile-web]
+2019-03-03 16:32:59.8611 Info Adding target Debugger Target[dbg]
+2019-03-03 16:32:59.8772 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:32:59.8913 Info Found 58 configuration items
+2019-03-03 16:32:59.9080 Info Configuration initialized.
+2019-03-03 16:32:59.9080 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:36:28.0572 Info Message Template Auto Format enabled
+2019-03-03 16:36:28.0686 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:36:28.1245 Info Adding target File Target[allfile]
+2019-03-03 16:36:28.1245 Info Adding target File Target[ownFile-web]
+2019-03-03 16:36:28.1245 Info Adding target Debugger Target[dbg]
+2019-03-03 16:36:28.1369 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:36:28.1369 Info Found 58 configuration items
+2019-03-03 16:36:28.1706 Info Configuration initialized.
+2019-03-03 16:36:28.1706 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:39:11.9969 Info Message Template Auto Format enabled
+2019-03-03 16:39:11.9969 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:39:12.0674 Info Adding target File Target[allfile]
+2019-03-03 16:39:12.0674 Info Adding target File Target[ownFile-web]
+2019-03-03 16:39:12.0674 Info Adding target Debugger Target[dbg]
+2019-03-03 16:39:12.0779 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:39:12.0951 Info Found 58 configuration items
+2019-03-03 16:39:12.1142 Info Configuration initialized.
+2019-03-03 16:39:12.1273 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:41:05.5909 Info Message Template Auto Format enabled
+2019-03-03 16:41:05.5909 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:41:05.6608 Info Adding target File Target[allfile]
+2019-03-03 16:41:05.6608 Info Adding target File Target[ownFile-web]
+2019-03-03 16:41:05.6608 Info Adding target Debugger Target[dbg]
+2019-03-03 16:41:05.6742 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:41:05.6919 Info Found 58 configuration items
+2019-03-03 16:41:05.7081 Info Configuration initialized.
+2019-03-03 16:41:05.7196 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:43:46.9183 Info Message Template Auto Format enabled
+2019-03-03 16:43:46.9183 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:43:46.9883 Info Adding target File Target[allfile]
+2019-03-03 16:43:46.9883 Info Adding target File Target[ownFile-web]
+2019-03-03 16:43:46.9883 Info Adding target Debugger Target[dbg]
+2019-03-03 16:43:47.0031 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:43:47.0169 Info Found 58 configuration items
+2019-03-03 16:43:47.0368 Info Configuration initialized.
+2019-03-03 16:43:47.0470 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 16:44:52.1976 Info Message Template Auto Format enabled
+2019-03-03 16:44:52.2078 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 16:44:52.2678 Info Adding target File Target[allfile]
+2019-03-03 16:44:52.2678 Info Adding target File Target[ownFile-web]
+2019-03-03 16:44:52.2678 Info Adding target Debugger Target[dbg]
+2019-03-03 16:44:52.2789 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 16:44:52.2965 Info Found 58 configuration items
+2019-03-03 16:44:52.3141 Info Configuration initialized.
+2019-03-03 16:44:52.3268 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 17:04:07.7769 Info Message Template Auto Format enabled
+2019-03-03 17:04:07.7933 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 17:04:07.8497 Info Adding target File Target[allfile]
+2019-03-03 17:04:07.8497 Info Adding target File Target[ownFile-web]
+2019-03-03 17:04:07.8497 Info Adding target Debugger Target[dbg]
+2019-03-03 17:04:07.8620 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 17:04:07.8760 Info Found 58 configuration items
+2019-03-03 17:04:07.8931 Info Configuration initialized.
+2019-03-03 17:04:07.9042 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 17:10:10.8298 Info Message Template Auto Format enabled
+2019-03-03 17:10:10.8426 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 17:10:10.8975 Info Adding target File Target[allfile]
+2019-03-03 17:10:10.9038 Info Adding target File Target[ownFile-web]
+2019-03-03 17:10:10.9038 Info Adding target Debugger Target[dbg]
+2019-03-03 17:10:10.9038 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 17:10:10.9267 Info Found 58 configuration items
+2019-03-03 17:10:10.9456 Info Configuration initialized.
+2019-03-03 17:10:10.9547 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 17:21:15.9138 Info Message Template Auto Format enabled
+2019-03-03 17:21:15.9236 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 17:21:15.9823 Info Adding target File Target[allfile]
+2019-03-03 17:21:15.9823 Info Adding target File Target[ownFile-web]
+2019-03-03 17:21:15.9823 Info Adding target Debugger Target[dbg]
+2019-03-03 17:21:15.9823 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 17:21:16.0176 Info Found 58 configuration items
+2019-03-03 17:21:16.0362 Info Configuration initialized.
+2019-03-03 17:21:16.0488 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 17:22:18.9744 Info Message Template Auto Format enabled
+2019-03-03 17:22:18.9886 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 17:22:19.0430 Info Adding target File Target[allfile]
+2019-03-03 17:22:19.0430 Info Adding target File Target[ownFile-web]
+2019-03-03 17:22:19.0430 Info Adding target Debugger Target[dbg]
+2019-03-03 17:22:19.0430 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 17:22:19.0725 Info Found 58 configuration items
+2019-03-03 17:22:19.0918 Info Configuration initialized.
+2019-03-03 17:22:19.0918 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 17:24:42.2038 Info Message Template Auto Format enabled
+2019-03-03 17:24:42.2162 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 17:24:42.2754 Info Adding target File Target[allfile]
+2019-03-03 17:24:42.2754 Info Adding target File Target[ownFile-web]
+2019-03-03 17:24:42.2803 Info Adding target Debugger Target[dbg]
+2019-03-03 17:24:42.2803 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 17:24:42.3030 Info Found 58 configuration items
+2019-03-03 17:24:42.3221 Info Configuration initialized.
+2019-03-03 17:24:42.3336 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 17:31:44.8284 Info Message Template Auto Format enabled
+2019-03-03 17:31:44.8412 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 17:31:44.8985 Info Adding target File Target[allfile]
+2019-03-03 17:31:44.8985 Info Adding target File Target[ownFile-web]
+2019-03-03 17:31:44.9029 Info Adding target Debugger Target[dbg]
+2019-03-03 17:31:44.9029 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 17:31:44.9244 Info Found 58 configuration items
+2019-03-03 17:31:44.9472 Info Configuration initialized.
+2019-03-03 17:31:44.9587 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 17:33:03.6554 Info Message Template Auto Format enabled
+2019-03-03 17:33:03.6554 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 17:33:03.7235 Info Adding target File Target[allfile]
+2019-03-03 17:33:03.7235 Info Adding target File Target[ownFile-web]
+2019-03-03 17:33:03.7235 Info Adding target Debugger Target[dbg]
+2019-03-03 17:33:03.7368 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 17:33:03.7509 Info Found 58 configuration items
+2019-03-03 17:33:03.7707 Info Configuration initialized.
+2019-03-03 17:33:03.7812 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-03 17:34:34.0886 Info Message Template Auto Format enabled
+2019-03-03 17:34:34.1036 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-03 17:34:34.1615 Info Adding target File Target[allfile]
+2019-03-03 17:34:34.1615 Info Adding target File Target[ownFile-web]
+2019-03-03 17:34:34.1615 Info Adding target Debugger Target[dbg]
+2019-03-03 17:34:34.1744 Info Configured from an XML element in F:\SRC\github\StarterApp\StarterApp\bin\Debug\netcoreapp2.2\NLog.config...
+2019-03-03 17:34:34.1881 Info Found 58 configuration items
+2019-03-03 17:34:34.2081 Info Configuration initialized.
+2019-03-03 17:34:34.2176 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
